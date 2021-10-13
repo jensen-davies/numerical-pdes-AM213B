@@ -1,0 +1,16 @@
+1. assignment 8: question 1 part 2) does any characteristic at boundaries ever go into the computational domain? -- what does this mean? ask about characteristics 
+2. ask about CFL condition further--they look the same for each method in lecture 16.
+
+Ask for extra SciCAM time?
+
+
+plot region of stability
+conservation law -- derive F_(1/2)
+solve 2nd order ode nonhomogeneous analytically -> then derive central difference method for it
+implement 2D FTCS method fortran, serial, and parallel ("strong vs weak scaling"??)
+
+
+FYE Exam questions:
+2020 Question 2: My method for discretization depends on 2 previous values. How should I start my numerical method if I don't have both previous values?
+2020 Question 3: I understand what I need to do, but I am confused about the points to use for the linear interpolant for P. Is this the correct central difference?
+
